@@ -1,0 +1,6 @@
+@EcommerceCSharpChallenge.WebApi_HostAddress = http://localhost:5263
+
+GET {{EcommerceCSharpChallenge.WebApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
